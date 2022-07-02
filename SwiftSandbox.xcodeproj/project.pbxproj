@@ -7,6 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		994B9836285097BB00F3FE96 /* FactoryMethodBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994B9835285097BB00F3FE96 /* FactoryMethodBootcamp.swift */; };
+		994B983828509A5300F3FE96 /* Employee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994B983728509A5300F3FE96 /* Employee.swift */; };
+		994B983A28509A6B00F3FE96 /* Programmer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994B983928509A6B00F3FE96 /* Programmer.swift */; };
+		994B983C28509A7A00F3FE96 /* Designer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994B983B28509A7A00F3FE96 /* Designer.swift */; };
+		994B983E28509B3000F3FE96 /* AbstractEmployeeFabric.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994B983D28509B3000F3FE96 /* AbstractEmployeeFabric.swift */; };
+		994B98442850AEAE00F3FE96 /* Team.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994B98432850AEAE00F3FE96 /* Team.swift */; };
+		994B98462850B08300F3FE96 /* TechnicalTeam.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994B98452850B08300F3FE96 /* TechnicalTeam.swift */; };
+		994B984C2850B1D500F3FE96 /* AbstractTeamFabric.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994B984B2850B1D500F3FE96 /* AbstractTeamFabric.swift */; };
+		994B984E2850B2C800F3FE96 /* TeamFabric.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994B984D2850B2C800F3FE96 /* TeamFabric.swift */; };
+		994B98502850B6C100F3FE96 /* EmployeesFabric.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994B984F2850B6C000F3FE96 /* EmployeesFabric.swift */; };
+		994B98522850C6DB00F3FE96 /* DesignerTeam.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994B98512850C6DB00F3FE96 /* DesignerTeam.swift */; };
+		994CDB7028520AC600E67957 /* AbstractCar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994CDB6F28520AC600E67957 /* AbstractCar.swift */; };
+		994CDB7228520AE700E67957 /* AbstractEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994CDB7128520AE700E67957 /* AbstractEngine.swift */; };
+		994CDB7428520B4A00E67957 /* AbstractCarBody.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994CDB7328520B4A00E67957 /* AbstractCarBody.swift */; };
+		994CDB7628520CC500E67957 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994CDB7528520CC500E67957 /* Car.swift */; };
+		994CDB782852197200E67957 /* AbstractCarBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994CDB772852197200E67957 /* AbstractCarBuilder.swift */; };
+		994CDB7A285219A600E67957 /* CoupeCarBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994CDB79285219A600E67957 /* CoupeCarBuilder.swift */; };
+		994CDB7E28521C7600E67957 /* Engine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994CDB7D28521C7600E67957 /* Engine.swift */; };
+		994CDB8428521CE700E67957 /* Jeep.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994CDB8328521CE700E67957 /* Jeep.swift */; };
+		994CDB8728521E4900E67957 /* Body.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994CDB8628521E4900E67957 /* Body.swift */; };
+		994CDB892852200F00E67957 /* JeepCarBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994CDB882852200F00E67957 /* JeepCarBuilder.swift */; };
+		994CDB8B2852237000E67957 /* Director.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994CDB8A2852237000E67957 /* Director.swift */; };
+		994CDB8D285226B400E67957 /* BuilderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994CDB8C285226B400E67957 /* BuilderBootcamp.swift */; };
+		994CDB90285229A000E67957 /* PrototypeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994CDB8F285229A000E67957 /* PrototypeBootcamp.swift */; };
+		994CDB92285229C000E67957 /* Human.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994CDB91285229C000E67957 /* Human.swift */; };
+		994CDB9428522D2700E67957 /* Pasport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994CDB9328522D2700E67957 /* Pasport.swift */; };
+		994CDB962852303A00E67957 /* Singletone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994CDB952852303A00E67957 /* Singletone.swift */; };
+		99A6D5CA2855D2E700936321 /* AdapterBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99A6D5C92855D2E700936321 /* AdapterBootcamp.swift */; };
+		99A6D5D02855E14C00936321 /* Bridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99A6D5CF2855E14C00936321 /* Bridge.swift */; };
+		99A6D5D3285609CB00936321 /* CompositeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99A6D5D2285609CB00936321 /* CompositeBootcamp.swift */; };
+		99A6D5D628562F0200936321 /* DecoratorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99A6D5D528562F0200936321 /* DecoratorBootcamp.swift */; };
+		99A6D5D928573F5700936321 /* FacadeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99A6D5D828573F5700936321 /* FacadeBootcamp.swift */; };
 		99E9D9C0283D2BCE006E39CC /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99E9D9BF283D2BCE006E39CC /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +55,38 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		994B9835285097BB00F3FE96 /* FactoryMethodBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactoryMethodBootcamp.swift; sourceTree = "<group>"; };
+		994B983728509A5300F3FE96 /* Employee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Employee.swift; sourceTree = "<group>"; };
+		994B983928509A6B00F3FE96 /* Programmer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Programmer.swift; sourceTree = "<group>"; };
+		994B983B28509A7A00F3FE96 /* Designer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Designer.swift; sourceTree = "<group>"; };
+		994B983D28509B3000F3FE96 /* AbstractEmployeeFabric.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbstractEmployeeFabric.swift; sourceTree = "<group>"; };
+		994B98432850AEAE00F3FE96 /* Team.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Team.swift; sourceTree = "<group>"; };
+		994B98452850B08300F3FE96 /* TechnicalTeam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TechnicalTeam.swift; sourceTree = "<group>"; };
+		994B984B2850B1D500F3FE96 /* AbstractTeamFabric.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbstractTeamFabric.swift; sourceTree = "<group>"; };
+		994B984D2850B2C800F3FE96 /* TeamFabric.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamFabric.swift; sourceTree = "<group>"; };
+		994B984F2850B6C000F3FE96 /* EmployeesFabric.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeesFabric.swift; sourceTree = "<group>"; };
+		994B98512850C6DB00F3FE96 /* DesignerTeam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignerTeam.swift; sourceTree = "<group>"; };
+		994CDB6F28520AC600E67957 /* AbstractCar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbstractCar.swift; sourceTree = "<group>"; };
+		994CDB7128520AE700E67957 /* AbstractEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbstractEngine.swift; sourceTree = "<group>"; };
+		994CDB7328520B4A00E67957 /* AbstractCarBody.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbstractCarBody.swift; sourceTree = "<group>"; };
+		994CDB7528520CC500E67957 /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		994CDB772852197200E67957 /* AbstractCarBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbstractCarBuilder.swift; sourceTree = "<group>"; };
+		994CDB79285219A600E67957 /* CoupeCarBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoupeCarBuilder.swift; sourceTree = "<group>"; };
+		994CDB7D28521C7600E67957 /* Engine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Engine.swift; sourceTree = "<group>"; };
+		994CDB8328521CE700E67957 /* Jeep.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Jeep.swift; sourceTree = "<group>"; };
+		994CDB8628521E4900E67957 /* Body.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Body.swift; sourceTree = "<group>"; };
+		994CDB882852200F00E67957 /* JeepCarBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JeepCarBuilder.swift; sourceTree = "<group>"; };
+		994CDB8A2852237000E67957 /* Director.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Director.swift; sourceTree = "<group>"; };
+		994CDB8C285226B400E67957 /* BuilderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuilderBootcamp.swift; sourceTree = "<group>"; };
+		994CDB8F285229A000E67957 /* PrototypeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrototypeBootcamp.swift; sourceTree = "<group>"; };
+		994CDB91285229C000E67957 /* Human.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Human.swift; sourceTree = "<group>"; };
+		994CDB9328522D2700E67957 /* Pasport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pasport.swift; sourceTree = "<group>"; };
+		994CDB952852303A00E67957 /* Singletone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Singletone.swift; sourceTree = "<group>"; };
+		99A6D5C92855D2E700936321 /* AdapterBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdapterBootcamp.swift; sourceTree = "<group>"; };
+		99A6D5CF2855E14C00936321 /* Bridge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bridge.swift; sourceTree = "<group>"; };
+		99A6D5D2285609CB00936321 /* CompositeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompositeBootcamp.swift; sourceTree = "<group>"; };
+		99A6D5D528562F0200936321 /* DecoratorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecoratorBootcamp.swift; sourceTree = "<group>"; };
+		99A6D5D828573F5700936321 /* FacadeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacadeBootcamp.swift; sourceTree = "<group>"; };
 		99E9D9BC283D2BCE006E39CC /* SwiftSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		99E9D9BF283D2BCE006E39CC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -38,10 +102,202 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		994B98472850B16C00F3FE96 /* Employees */ = {
+			isa = PBXGroup;
+			children = (
+				994B983728509A5300F3FE96 /* Employee.swift */,
+				994B983928509A6B00F3FE96 /* Programmer.swift */,
+				994B983B28509A7A00F3FE96 /* Designer.swift */,
+				994B98482850B17B00F3FE96 /* Fabric Methods */,
+			);
+			path = Employees;
+			sourceTree = "<group>";
+		};
+		994B98482850B17B00F3FE96 /* Fabric Methods */ = {
+			isa = PBXGroup;
+			children = (
+				994B983D28509B3000F3FE96 /* AbstractEmployeeFabric.swift */,
+				994B984F2850B6C000F3FE96 /* EmployeesFabric.swift */,
+			);
+			path = "Fabric Methods";
+			sourceTree = "<group>";
+		};
+		994B98492850B19400F3FE96 /* Teams */ = {
+			isa = PBXGroup;
+			children = (
+				994B98432850AEAE00F3FE96 /* Team.swift */,
+				994B98452850B08300F3FE96 /* TechnicalTeam.swift */,
+				994B98512850C6DB00F3FE96 /* DesignerTeam.swift */,
+				994B984A2850B1C100F3FE96 /* Fabric Methods */,
+			);
+			path = Teams;
+			sourceTree = "<group>";
+		};
+		994B984A2850B1C100F3FE96 /* Fabric Methods */ = {
+			isa = PBXGroup;
+			children = (
+				994B984B2850B1D500F3FE96 /* AbstractTeamFabric.swift */,
+				994B984D2850B2C800F3FE96 /* TeamFabric.swift */,
+			);
+			path = "Fabric Methods";
+			sourceTree = "<group>";
+		};
+		994CDB6D285207CB00E67957 /* Abstract Factory & Fabric method */ = {
+			isa = PBXGroup;
+			children = (
+				994B9835285097BB00F3FE96 /* FactoryMethodBootcamp.swift */,
+				994B98492850B19400F3FE96 /* Teams */,
+				994B98472850B16C00F3FE96 /* Employees */,
+			);
+			path = "Abstract Factory & Fabric method";
+			sourceTree = "<group>";
+		};
+		994CDB6E285207FF00E67957 /* Builder */ = {
+			isa = PBXGroup;
+			children = (
+				994CDB8C285226B400E67957 /* BuilderBootcamp.swift */,
+				994CDB8A2852237000E67957 /* Director.swift */,
+				994CDB7B285219C700E67957 /* Objects */,
+				994CDB7C285219D700E67957 /* Builders */,
+			);
+			path = Builder;
+			sourceTree = "<group>";
+		};
+		994CDB7B285219C700E67957 /* Objects */ = {
+			isa = PBXGroup;
+			children = (
+				994CDB8128521C9500E67957 /* Car */,
+				994CDB8228521C9D00E67957 /* Engines */,
+				994CDB8528521E2B00E67957 /* Body */,
+			);
+			path = Objects;
+			sourceTree = "<group>";
+		};
+		994CDB7C285219D700E67957 /* Builders */ = {
+			isa = PBXGroup;
+			children = (
+				994CDB772852197200E67957 /* AbstractCarBuilder.swift */,
+				994CDB79285219A600E67957 /* CoupeCarBuilder.swift */,
+				994CDB882852200F00E67957 /* JeepCarBuilder.swift */,
+			);
+			path = Builders;
+			sourceTree = "<group>";
+		};
+		994CDB8128521C9500E67957 /* Car */ = {
+			isa = PBXGroup;
+			children = (
+				994CDB6F28520AC600E67957 /* AbstractCar.swift */,
+				994CDB7528520CC500E67957 /* Car.swift */,
+				994CDB8328521CE700E67957 /* Jeep.swift */,
+			);
+			path = Car;
+			sourceTree = "<group>";
+		};
+		994CDB8228521C9D00E67957 /* Engines */ = {
+			isa = PBXGroup;
+			children = (
+				994CDB7128520AE700E67957 /* AbstractEngine.swift */,
+				994CDB7D28521C7600E67957 /* Engine.swift */,
+			);
+			path = Engines;
+			sourceTree = "<group>";
+		};
+		994CDB8528521E2B00E67957 /* Body */ = {
+			isa = PBXGroup;
+			children = (
+				994CDB7328520B4A00E67957 /* AbstractCarBody.swift */,
+				994CDB8628521E4900E67957 /* Body.swift */,
+			);
+			path = Body;
+			sourceTree = "<group>";
+		};
+		994CDB8E2852298D00E67957 /* Prototype */ = {
+			isa = PBXGroup;
+			children = (
+				994CDB8F285229A000E67957 /* PrototypeBootcamp.swift */,
+				994CDB91285229C000E67957 /* Human.swift */,
+				994CDB9328522D2700E67957 /* Pasport.swift */,
+			);
+			path = Prototype;
+			sourceTree = "<group>";
+		};
+		994CDB972852304800E67957 /* Singletone */ = {
+			isa = PBXGroup;
+			children = (
+				994CDB952852303A00E67957 /* Singletone.swift */,
+			);
+			path = Singletone;
+			sourceTree = "<group>";
+		};
+		99A6D5C62855D2A400936321 /* Porojdayshie */ = {
+			isa = PBXGroup;
+			children = (
+				994CDB972852304800E67957 /* Singletone */,
+				994CDB8E2852298D00E67957 /* Prototype */,
+				994CDB6E285207FF00E67957 /* Builder */,
+				994CDB6D285207CB00E67957 /* Abstract Factory & Fabric method */,
+			);
+			path = Porojdayshie;
+			sourceTree = "<group>";
+		};
+		99A6D5C82855D2C300936321 /* Strukturnie */ = {
+			isa = PBXGroup;
+			children = (
+				99A6D5D728573F4900936321 /* Facade */,
+				99A6D5D428562ED700936321 /* Docorator */,
+				99A6D5D12856099C00936321 /* Composite */,
+				99A6D5CE2855E13900936321 /* Bridge */,
+				99A6D5CB2855D2F000936321 /* Adapter */,
+			);
+			path = Strukturnie;
+			sourceTree = "<group>";
+		};
+		99A6D5CB2855D2F000936321 /* Adapter */ = {
+			isa = PBXGroup;
+			children = (
+				99A6D5C92855D2E700936321 /* AdapterBootcamp.swift */,
+			);
+			path = Adapter;
+			sourceTree = "<group>";
+		};
+		99A6D5CE2855E13900936321 /* Bridge */ = {
+			isa = PBXGroup;
+			children = (
+				99A6D5CF2855E14C00936321 /* Bridge.swift */,
+			);
+			path = Bridge;
+			sourceTree = "<group>";
+		};
+		99A6D5D12856099C00936321 /* Composite */ = {
+			isa = PBXGroup;
+			children = (
+				99A6D5D2285609CB00936321 /* CompositeBootcamp.swift */,
+			);
+			path = Composite;
+			sourceTree = "<group>";
+		};
+		99A6D5D428562ED700936321 /* Docorator */ = {
+			isa = PBXGroup;
+			children = (
+				99A6D5D528562F0200936321 /* DecoratorBootcamp.swift */,
+			);
+			path = Docorator;
+			sourceTree = "<group>";
+		};
+		99A6D5D728573F4900936321 /* Facade */ = {
+			isa = PBXGroup;
+			children = (
+				99A6D5D828573F5700936321 /* FacadeBootcamp.swift */,
+			);
+			path = Facade;
+			sourceTree = "<group>";
+		};
 		99E9D9B3283D2BCE006E39CC = {
 			isa = PBXGroup;
 			children = (
-				99E9D9BE283D2BCE006E39CC /* SwiftSandbox */,
+				99E9D9BF283D2BCE006E39CC /* main.swift */,
+				99A6D5C62855D2A400936321 /* Porojdayshie */,
+				99A6D5C82855D2C300936321 /* Strukturnie */,
 				99E9D9BD283D2BCE006E39CC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,14 +308,6 @@
 				99E9D9BC283D2BCE006E39CC /* SwiftSandbox */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		99E9D9BE283D2BCE006E39CC /* SwiftSandbox */ = {
-			isa = PBXGroup;
-			children = (
-				99E9D9BF283D2BCE006E39CC /* main.swift */,
-			);
-			path = SwiftSandbox;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,7 +368,39 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				994B98462850B08300F3FE96 /* TechnicalTeam.swift in Sources */,
+				99A6D5CA2855D2E700936321 /* AdapterBootcamp.swift in Sources */,
+				994B98442850AEAE00F3FE96 /* Team.swift in Sources */,
 				99E9D9C0283D2BCE006E39CC /* main.swift in Sources */,
+				994CDB7A285219A600E67957 /* CoupeCarBuilder.swift in Sources */,
+				994CDB892852200F00E67957 /* JeepCarBuilder.swift in Sources */,
+				99A6D5D928573F5700936321 /* FacadeBootcamp.swift in Sources */,
+				994B984C2850B1D500F3FE96 /* AbstractTeamFabric.swift in Sources */,
+				994CDB782852197200E67957 /* AbstractCarBuilder.swift in Sources */,
+				994CDB9428522D2700E67957 /* Pasport.swift in Sources */,
+				994CDB8428521CE700E67957 /* Jeep.swift in Sources */,
+				99A6D5D628562F0200936321 /* DecoratorBootcamp.swift in Sources */,
+				994CDB7028520AC600E67957 /* AbstractCar.swift in Sources */,
+				994CDB7628520CC500E67957 /* Car.swift in Sources */,
+				994B98502850B6C100F3FE96 /* EmployeesFabric.swift in Sources */,
+				994CDB8728521E4900E67957 /* Body.swift in Sources */,
+				994CDB90285229A000E67957 /* PrototypeBootcamp.swift in Sources */,
+				994CDB962852303A00E67957 /* Singletone.swift in Sources */,
+				994CDB8D285226B400E67957 /* BuilderBootcamp.swift in Sources */,
+				994B984E2850B2C800F3FE96 /* TeamFabric.swift in Sources */,
+				994B983828509A5300F3FE96 /* Employee.swift in Sources */,
+				994B9836285097BB00F3FE96 /* FactoryMethodBootcamp.swift in Sources */,
+				99A6D5D02855E14C00936321 /* Bridge.swift in Sources */,
+				994CDB7428520B4A00E67957 /* AbstractCarBody.swift in Sources */,
+				994CDB92285229C000E67957 /* Human.swift in Sources */,
+				994B983C28509A7A00F3FE96 /* Designer.swift in Sources */,
+				994B98522850C6DB00F3FE96 /* DesignerTeam.swift in Sources */,
+				99A6D5D3285609CB00936321 /* CompositeBootcamp.swift in Sources */,
+				994B983E28509B3000F3FE96 /* AbstractEmployeeFabric.swift in Sources */,
+				994B983A28509A6B00F3FE96 /* Programmer.swift in Sources */,
+				994CDB8B2852237000E67957 /* Director.swift in Sources */,
+				994CDB7228520AE700E67957 /* AbstractEngine.swift in Sources */,
+				994CDB7E28521C7600E67957 /* Engine.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
